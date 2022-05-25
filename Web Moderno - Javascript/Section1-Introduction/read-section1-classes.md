@@ -13,4 +13,7 @@
 
 #Class 5 - Why Learn Javascript
 
-#Class 6 - Terminals
+#Class 6 - Using Terminals
+
+#Class 7 - Terminals
+[https://blog.cod3r.com.br/terminal-no-windows/]
